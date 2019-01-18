@@ -49,7 +49,7 @@ Reusing the teach and student example. Suppose you want to display the role as `
 
 ``` yml
 records:
-  blogpost:
+  user:
     record_type: user
       list:
         fields:
